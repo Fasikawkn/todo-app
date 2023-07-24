@@ -12,7 +12,7 @@ class TodoListView extends GetView<TodoListController> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('To Do '),
+        title: const Text('Todos '),
         centerTitle: true,
       ),
       body: Obx(

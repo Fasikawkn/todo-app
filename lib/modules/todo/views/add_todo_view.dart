@@ -9,7 +9,7 @@ class AddTodoView extends GetView<AddTodoController> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Add ToDo'),
+        title: const Text('Add Too'),
         centerTitle: true,
       ),
       body: SingleChildScrollView(
