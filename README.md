@@ -1,17 +1,10 @@
-# todo_app
+# A Todo App 
 
-A new Flutter project.
+A simple todo app developed using flutter and firebase.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Fasikawkn/todo-app/blob/main/assets/photo_2023-07-24_15-30-14.jpg" width="300" height="650" />
+<img src="https://github.com/Fasikawkn/todo-app/blob/main/assets/photo_2023-07-24_15-30-06.jpg" width="300" height="650" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# todo-app
